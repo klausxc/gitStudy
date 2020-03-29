@@ -5,5 +5,11 @@ public class HelloWorld {
         System.out.println(223);
         
         System.out.println(333);
+        getWork();
     }
+
+    private static void getWork() {
+    }
+
+
 }
